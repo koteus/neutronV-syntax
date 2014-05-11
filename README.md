@@ -1,4 +1,4 @@
-# Neutron Syntax Theme for Atom
+# "Neutron V" Syntax Theme for Atom (a violet modification of "Neutron")
 
 Complementing syntax theme for the [Neutron UI](http://atom.io/packages/neutron-ui) package.
 
