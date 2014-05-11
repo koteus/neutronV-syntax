@@ -1,9 +1,9 @@
 {
-  "name": "neutron-syntax",
+  "name": "neutronV-syntax",
   "theme": "syntax",
   "version": "0.2.0",
   "description": "Syntax theme for the Neutron UI theme",
-  "repository": "https://github.com/brentd/neutron-syntax",
+  "repository": "https://github.com/koteus/neutron-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
